@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/linomota/go-ignite-api/env-loader"
-	"os"
+	"github.com/LinoMota/go-ignite-api/util/env-loader"
 )
 
 func main() {
