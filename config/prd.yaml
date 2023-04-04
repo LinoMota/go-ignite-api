@@ -1,0 +1,16 @@
+application:
+  name: Application name
+  port: 8080
+
+  logging:
+    level: INFO
+
+  redis:
+    host: localhost
+    port: 6379
+
+  autocorrect:
+    enabled: true
+    uri: http://localhost:8080/autocorrect
+
+  
