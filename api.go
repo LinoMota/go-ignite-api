@@ -7,6 +7,6 @@ import (
 
 func main() {
 	fmt.Println("Starting app...")
-	loadEnv()
+	LoadEnv()
 
 }

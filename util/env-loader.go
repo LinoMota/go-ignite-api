@@ -6,7 +6,7 @@ import (
 	"github.com/americanas-go/config"
 )
 
-func loadEnv() {
+func LoadEnv() {
 
 	fmt.Println("Loading app enviroment...")
 
